@@ -1,0 +1,41 @@
+/* add your CSS here */
+.img{
+    width: 300px;
+    border-radius: 50%;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+
+}
+.p{
+    font-style: italic;    
+}
+ul{
+	list-style-type: none;
+	padding-left: 0px;	
+}
+h3{
+	border-style: solid;
+	border-color: #F0FFFF;
+	border-radius: 50px / 15px;
+    background: #008B8B	;
+    padding: 20px; 
+    width: 200px;
+    height: 15px; 
+    color: white;
+    text-align: center;
+}
+.div{
+	border-style: solid;
+	border-color: #008B8B;
+	width: 300px;
+	background: #2F4F4F;
+	color: white;
+	padding: 20px;
+}
+.div1{
+	border: 2px solid;
+    padding: 8px;
+    border-image: url(border.png) 30 round;
+    background: #008B8B	;
+}
